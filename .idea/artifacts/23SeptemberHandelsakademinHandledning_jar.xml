@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="23SeptemberHandelsakademinHandledning:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/23SeptemberHandelsakademinHandledning_jar</output-path>
+    <root id="archive" name="23SeptemberHandelsakademinHandledning.jar">
+      <element id="module-output" name="23SeptemberHandelsakademinHandledning" />
+    </root>
+  </artifact>
+</component>
